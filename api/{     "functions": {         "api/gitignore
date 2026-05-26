@@ -1,0 +1,11 @@
+# الملفات الحساسة
+.env
+.env.local
+.env.*.local
+
+# ملفات النظام
+.DS_Store
+Thumbs.db
+
+# مجلدات الاعتماديات
+node_modules/
